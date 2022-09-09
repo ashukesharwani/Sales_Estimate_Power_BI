@@ -1,7 +1,5 @@
 # Sales_Estimate_Power_BI
-To evaluate the business performance and for presenting in the business board meeting Company performance has been Visualised using performance dashboard using POWERBI Software ,for the 4 year of the data from 2012 to 2015 , it has 4 button which represent all the data of the particular accounting years
 
-To evaluate the business performace and for conving the business result in the business board meeting Company performace has been Visualised using POWERBI Software ,for the 4 year of the data from 2012 to 2015 , it has 4 button which represnt all the data of the particular accouting years
-The sales estimation dashboard was developed to give knowledge of the performance of the business over the last 4 years to the company's investors
+The Sales Estimate is a dashboard made using POWERBI to assist decision-makers evaluate business performance and make forward-thinking business decisions. It comprehends vast amounts of data at a glance and in a better way that helps to understand the data better, measure its impact on the business and communicate the insight visually to internal and external audiences. This is the interactive dashboard for users. This dashboard contains four buttons, and by clicking any graph or button, we may learn more about the data at that specific moment. Each button provides performance information for the corresponding year. The dataset from which it has been made is a huge dataset consisting of 51291 rows and 25 feature columns. The datasets were noisy, which was transformed
 
 <img src="https://user-images.githubusercontent.com/83163103/188327551-61698c20-f618-42e8-9d8b-9567be0dcde8.PNG" >
