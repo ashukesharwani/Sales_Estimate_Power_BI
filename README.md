@@ -5,3 +5,5 @@
 <p>The dataset from which it has been made is a huge dataset consisting of 51291 rows and 25 feature columns. The datasets were noisy, which was transformed</p>
 
 <img src="https://user-images.githubusercontent.com/83163103/188327551-61698c20-f618-42e8-9d8b-9567be0dcde8.PNG" >
+
+<p>August 2022 – September 2022<p/>
